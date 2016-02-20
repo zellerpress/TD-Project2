@@ -93,6 +93,7 @@ a:hover {
 .profile-image {
   background-color: #cfcfcf;
   padding: 10px 60px;
+  border-radius: 5%;
   max-width: 250px;
   display: flex;
   justify-content: space-around;
